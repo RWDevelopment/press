@@ -1,4 +1,9 @@
 body {font-family: 'Raleway', sans-serif;}
+body > * {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
 .navbar-brand,.display-4,h3 {font-family: 'Playfair Display', serif;}
 .card-img-right {
   height: 100%;
