@@ -1,2 +1,6 @@
 body {font-family: 'Raleway', sans-serif;}
 .navbar-brand,.display-4 {font-family: 'Playfair Display', serif;}
+.h-250 { height: 250px; }
+@media (min-width: 768px) {
+  .h-md-250 { height: 250px; }
+}
