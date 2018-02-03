@@ -1,5 +1,15 @@
 body {font-family: 'Raleway', sans-serif;}
 .navbar-brand,.display-4,h3 {font-family: 'Playfair Display', serif;}
+.card-img-right {
+  height: 100%;
+  border-radius: 0 3px 3px 0;
+}
+
+.flex-auto {
+  -ms-flex: 0 0 auto;
+  -webkit-box-flex: 0;
+  flex: 0 0 auto;
+}
 .h-250 { height: 250px; }
 @media (min-width: 768px) {
   .h-md-250 { height: 250px; }
