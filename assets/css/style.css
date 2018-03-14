@@ -19,4 +19,4 @@ body > * {
 @media (min-width: 768px) {
   .h-md-250 { height: 250px; }
 }
-.menu .nav-link {font-family: 'Raleway', sans-serif;font-size:14px;color:#444;}
+.menu .nav-link {font-family: 'Playfair Display', sans-serif;font-size:14px;color:#444;padding:8px 10px 8px 10px;}
