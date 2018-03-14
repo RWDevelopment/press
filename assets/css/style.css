@@ -19,4 +19,4 @@ body > * {
 @media (min-width: 768px) {
   .h-md-250 { height: 250px; }
 }
-.menu nav-link {font-size:14px;}
+.menu .nav-link {font-size:14px;}
