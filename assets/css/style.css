@@ -5,8 +5,8 @@ body > * {
   background-size: cover;
 }
 .navbar-brand,.display-4,h3,h2,h1 {font-family: 'Playfair Display', serif;}
-.title {font-weight:bold;color:#999;}
-.title:hover {text-decoration:none;}
+.title {font-weight:bold;color:#000;}
+.title:hover {color:#999;text-decoration:none;}
 .card-img-right {
   height: 100%;
   border-radius: 0 3px 3px 0;
