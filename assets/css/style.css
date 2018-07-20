@@ -4,7 +4,7 @@ body > * {
   background-position: center;
   background-size: cover;
 }
-.navbar-brand,.display-4,h3 {font-family: 'Playfair Display', serif;}
+.navbar-brand,.display-4,h3,h2,h1 {font-family: 'Playfair Display', serif;}
 .card-img-right {
   height: 100%;
   border-radius: 0 3px 3px 0;
