@@ -21,4 +21,4 @@ body > * {
 @media (min-width: 768px) {
   .h-md-250 { height: 250px; }
 }
-.menu .nav-link {font-family: 'Playfair Display', sans-serif;font-weight:bold;color:#444;text-transform:uppercase;padding:8px 10px 8px 10px;}
+.menu .nav-link {font-family: 'Roboto', sans-serif;font-weight:bold;color:#444;text-transform:uppercase;padding:8px 10px 8px 10px;}
