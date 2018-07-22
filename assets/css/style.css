@@ -4,7 +4,7 @@ body > * {
   background-position: center;
   background-size: cover;
 }
-.navbar-brand,.display-4,h3,h2,h1 {font-family: 'Playfair Display', serif;}
+.navbar-brand,.display-4,h5,h4,h3,h2,h1 {font-family: 'Playfair Display', serif;}
 .title {font-weight:bold;color:#000;}
 .title:hover {color:#999;text-decoration:none;}
 .card-img-right {
